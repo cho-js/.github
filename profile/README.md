@@ -1,7 +1,1 @@
-## CHO 🦋
-
-[Documentation for CHO framework](https://cho-js.github.io/docs/)
-
-CHO is a tiny decorator-based TypeScript framework for building modular applications.
-
-蝶
+ 🦋 [Documentation for CHO framework](https://cho-js.github.io/docs/) 蝶
